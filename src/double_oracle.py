@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Author: Liang Tong
 
 from scipy import optimize as op
 from listutils import *

@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
+# Author: Liang Tong
 
 """Reinforcement-learning based best-response policies."""
+
 import logging
 from numpy import array, float32
 from time import time

@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Author: Aron Laszka, Liang Tong
+
 """Auxiliary functions to process lists"""
 import numpy as np
 

@@ -32,8 +32,7 @@ Here, ```dataset``` can be either ```ids``` or ```fraud```, corresponding to the
 For network intursion detection, ```defense``` can be one of ```rl```, ```uniform``` and ```suricata```;
 For fraud detection, ```defense``` can be one of ```rl```, ```uniform```, ```gain``` and ```rio```.
 ```attack``` can be one of the following: ```rl```, ```uniform``` and ```greedy```, as described in the paper.
-```n_experiment``` is the number of random seeds used for reinforcement learning.
-In our experiments, it was set to be 20.
+```n_experiment``` is the number of random seeds used for reinforcement learning, and it was set to be 20 in our experiments.
 
 Note that the value of the defense and attack budgets should be the values displayed in Figure 2, 3, 4, 5 of the paper.
 When using ```fraud``` as the case study, please revise the following value in ```project.conf``` as follows:

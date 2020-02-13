@@ -62,7 +62,7 @@ python double_oracle.py [dataset] [def_budget] [adv_budget] [n_experiment]
 ```
 @inproceedings{tong2020finding,
   title={Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning},
-  author={Tong, Liang and Lazska, Aron and Yan, Chao and Zhang, Ning and Vorobeychik, Yevgeniy},
+  author={Tong, Liang and Laszka, Aron and Yan, Chao and Zhang, Ning and Vorobeychik, Yevgeniy},
   booktitle={34th AAAI Conference on Artificial Intelligence},
   year={2020}
 }

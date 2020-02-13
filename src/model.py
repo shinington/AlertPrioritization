@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Author: Aron Laszka, Liang Tong
 
 """Model of the alert prioritization problem, including alert and attack types."""
 

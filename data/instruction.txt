@@ -1,0 +1,2 @@
+The fraud deteciton dataset can be download from https://www.kaggle.com/mlg-ulb/creditcardfraud
+The NIDS dataset can be downloaded from https://www.unb.ca/cic/datasets/ids-2017.html  

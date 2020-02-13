@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Author: Liang Tong, Aron Laszka
 
 """Reinforcement-learning based best-response policies."""
 import logging

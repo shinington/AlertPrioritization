@@ -53,6 +53,10 @@ Please use the following commands for training the models of our approach:
 python double_oracle.py [dataset] [def_budget] [adv_budget] [n_experiment]
 ```
 
+## Contributors
+* Liang Tong (liangtong@wustl.edu)
+* Aron Laszka (alaszka@uh.edu)
+
 ## Citation
 
 ```
